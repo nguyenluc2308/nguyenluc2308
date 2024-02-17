@@ -1,0 +1,155 @@
+/* Extra large devices (large desktops, 1800px and up) */
+@media (max-width: 1800px) {
+.banner-bg {
+    padding: 205px 0px 240px;
+}
+.ta-banners {
+    left: -46%;
+    bottom: -60%;
+}
+.ta-right-banners {
+    bottom: -78%;
+    right: -44%;
+}
+
+
+}
+
+
+/* Extra large devices (large desktops, 1800px and up) */
+@media (max-width: 1500px) {
+.banner-content .banner-text p {
+    max-width: 35%;
+}
+.banner-bg {
+    padding: 55px 0px 240px;
+}
+
+
+}
+
+
+/* Extra large devices (large desktops, 1200px and up) */
+@media (max-width: 1199.98px) {
+.custom-container {
+    max-width: 960px;
+}
+.header-action > ul li.header-btn {
+	display: none;
+}
+.banner-bg {
+    padding: 215px 0px 100px;
+}
+.ta-banners {
+    display: none;
+}
+.ta-right-banners {
+    display: none;
+}
+.banner-content .banner-text p {
+    max-width: 46%;
+}
+.banner-bg {
+    padding: 120px 0px 120px;
+}
+
+}
+
+
+
+/* Large devices (desktops, 992px and up) */
+@media (max-width: 991.98px) {
+.custom-container {
+    max-width: 720px;
+}
+.menu-area {
+	padding: 25px 0;
+}
+.menu-nav {
+	justify-content: space-between;
+}
+.header-action {
+	margin-right: 40px;
+}
+.menu-outer .navbar-wrap {
+	display: block !important;
+}
+.menu-area .mobile-nav-toggler {
+	display: block;
+}
+.banner-content .banner-text p {
+    max-width: 58%;
+}
+.banner-bg {
+    padding: 80px 0px 100px;
+    min-height: auto;
+}
+.banner-logo {
+    width: 180px;
+    height: 180px;
+}
+.banner-logo a {
+    max-width: 115px;
+}
+
+}
+
+
+
+/* Medium devices (tablets, 768px and up) */
+@media (max-width: 767.98px) {
+.custom-container {
+    max-width: 100%;
+}
+.transparent-header {
+	top: 0;
+}
+.banner-content .banner-text p {
+    max-width: 90%;
+}
+.section-title .title {
+    font-size: 30px;
+}
+.section-title p {
+    width: 100%;
+}
+.footer-content .title {
+    font-size: 38px;
+}
+.banner-logo {
+    width: 140px;
+    height: 140px;
+}
+.banner-logo a {
+    max-width: 85px;
+}
+.scroll-top {
+    right: 15px;
+}
+
+}
+
+
+/* Small devices (landscape phones, 576px and up) */
+@media only screen and (min-width: 576px) and (max-width: 767px) {
+.custom-container {
+    max-width: 540px;
+}
+.banner-content .banner-text p {
+    max-width: 86%;
+}
+.section-title .title {
+    font-size: 36px;
+}
+.banner-logo a {
+    max-width: 100px;
+}
+.banner-logo {
+    width: 180px;
+    height: 180px;
+}
+
+
+}
+
+
